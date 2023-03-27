@@ -1,8 +1,4 @@
-# Main Heading - Intro to Markdown
-
-Markdow is intended to be as easy-to-read and easy-to-write as is feasible.
-
-## Paragraphs
+# markdown-demo
 
 This is a useless repo for messing around with Git, Github, Markdown, etc...
 
@@ -14,10 +10,20 @@ This is a paragraph with lots of space. Markdown ignores multiple empty lines.
 
 This is another paragraph.This is a paragraph with no line in between.
 
-## Headings
+*italics* **bold** ***bold and italics***
 
-### Subsection of Headings
+## Lists
 
-## Text Formatting
+This is an ordered list:
 
-This paragraph has some *italicized text*. This includes **bold text**. This is a ***bold and italics text***
+1.This is item number one.
+2. This is item number two.
+
+    Some more instructions for item two.
+    
+3. This is item number three.
+
+This is a bullet list:
+
+First item
+Second item
