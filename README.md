@@ -33,9 +33,11 @@ this is a lint to my website:
 
 ## Images
 
-![Nature photo](https://unsplash.com/photos/01_igFr7hd4)
+![Nature photo](https://images.unsplash.com/photo-1501854140801-50d01698950b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1275&q=80)
 
 <img src="https://unsplash.com/photos/01_igFr7hd4">
+
+Markdown on github does alllow the us of the `img` tag.
 
 
 
