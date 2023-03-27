@@ -50,5 +50,5 @@ console.log("This is some javascript");
 
  Heading 1 | Heading 2 | Heading 3 | # 
  --- | --- | ---; | ---; 
- - Value 1 | Value 2 | Value 3 | 4000 
- - Value 4 | Value 5 | Value 6 | 450 
+ Value 1 | Value 2 | Value 3 | 4000 
+ Value 4 | Value 5 | Value 6 | 450 
