@@ -39,3 +39,9 @@ Markdown on github does alllow the us of the `img` tag.
 
 !(butterfly.avif)
 
+## Adding Code
+
+You can add inline `code` using a single tic. Or multiple links of code using three tics.
+
+```javascript
+console.log("This is some javascript");```
