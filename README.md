@@ -29,6 +29,12 @@ This is an unordered list:
 ## Links
 this is a lint to my website:
 
+[humber.ca](https//humber.ca)
+
+## Images
+
+![](https://unsplash.com/photos/01_igFr7hd4)
+
 
 
 
