@@ -33,7 +33,9 @@ this is a lint to my website:
 
 ## Images
 
-![](https://unsplash.com/photos/01_igFr7hd4)
+![Nature photo](https://unsplash.com/photos/01_igFr7hd4)
+
+<img src="https://unsplash.com/photos/01_igFr7hd4">
 
 
 
