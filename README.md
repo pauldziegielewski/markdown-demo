@@ -10,20 +10,25 @@ This is a paragraph with lots of space. Markdown ignores multiple empty lines.
 
 This is another paragraph.This is a paragraph with no line in between.
 
-*italics* **bold** ***bold and italics***
+## italics bold 
+
+*italics* **bold** ***bold italics***
 
 ## Lists
 
-This is an ordered list:
+This is an ordered list
 
-1.This is item number one.
-2. This is item number two.
+1. First Item
+2. Second Item
 
-    Some more instructions for item two.
-    
-3. This is item number three.
+This is an unordered list:
 
-This is a bullet list:
+- First Item
+- Second Item
 
-First item
-Second item
+## Links
+this is a lint to my website:
+
+
+
+
